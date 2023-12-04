@@ -1,3 +1,14 @@
+I made this project while studying john smilga course 
+I kept its README.md as it is as a sign of respect fot him
+
+
+
+
+
+
+
+
+
 # Redux Toolkit
 
 #### React Course
@@ -727,5 +738,6 @@ const cartSlice = createSlice({
   },
 });
 ```
-#   R e d u x - t o o l K i t  
+#   R e d u x - t o o l K i t 
+ 
  
